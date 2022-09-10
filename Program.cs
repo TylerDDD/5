@@ -1,8 +1,4 @@
-﻿// Задача номер 38.
-
-
-
-// Задача номер 36.
+﻿// Задача номер 36.
 
 /* Console.WriteLine ("Сумма");
 int size = Convert.ToInt32(Console.ReadLine());
